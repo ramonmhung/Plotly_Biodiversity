@@ -1,0 +1,8 @@
+/* Image of style sheet */
+
+.jumbotron{
+    color: yellow;
+    background-image: url("../images/beef.jpeg");
+    background-size: 100% 100%;
+    text-align: center;
+}
